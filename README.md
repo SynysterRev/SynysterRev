@@ -2,6 +2,8 @@
 Hi there 👋, I'm Michaël, based in Montpellier, France.
 I worked to 4-5 years in the video game industry as a gameplay programmer. Now I'm exploring new horizon by studying Python and ASP NET Core.
 
+[Portfolio](https://portfolio-self-eight-65.vercel.app/)
+
 ### 📫 How to reach me
 [![Linkedin](https://i.sstatic.net/gVE0j.png)LinkedIn](https://www.linkedin.com/in/michael-arn/)
 
